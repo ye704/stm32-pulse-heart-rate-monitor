@@ -1,0 +1,28 @@
+# Keil MDK-ARM build outputs
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.dep
+*.iex
+*.browse
+*.build_log.htm
+*.map
+*.lst
+*.bak
+*.scvd
+*.uvguix.*
+Objects/
+Listings/
+DebugConfig/
+RTE/
+
+# STM32CubeMX
+.mxproject
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
